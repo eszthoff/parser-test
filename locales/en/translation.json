@@ -1,4 +1,5 @@
 {
   "This is just the key, as it should be": "",
-  "This should be only the key, not the value": "This should be only the key, not the value"
+  "trans1": "This should be only the key trans1, not the value",
+  "trans2": "This should be only the key trans2, <1>not the value</1>"
 }
